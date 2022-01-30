@@ -1,4 +1,4 @@
-package com.star.sud.array;
+package com.star.sud.array.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;
